@@ -2,7 +2,7 @@
 
 A Herdr app layout that keeps watch over your agents.
 
-The "board" layout: an attention queue for the Herdr app: an agent board on the left
+The "board" layout puts an agent board on the left
 (what needs you first, then one summary per machine), and the active tab on the
 right under a context bar showing the focused machine and branch.
 
