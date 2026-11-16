@@ -40,3 +40,7 @@ expected.
   its terminal's `open.url` label. Ignore it if you do not use remote machines.
 - **Ticket links**: tickets that look like `CU-…` or `86…` link to ClickUp.
 - UI strings are in Portuguese (pt-BR).
+
+## License
+
+MIT. See [LICENSE](LICENSE).
