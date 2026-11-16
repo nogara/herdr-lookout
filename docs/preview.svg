@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 1280 820" width="1280" height="820">
+<rect x="0" y="0" width="1280" height="820" rx="0" fill="#f3f3f1"/>
+<rect x="0" y="0" width="1280" height="28" rx="0" fill="#ececea"/>
+<circle cx="16" cy="14" r="6" fill="#ff5f57"/>
+<circle cx="36" cy="14" r="6" fill="#febc2e"/>
+<circle cx="56" cy="14" r="6" fill="#28c840"/>
+<text x="640.0" y="18" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#57606a" text-anchor="middle">Herdr — board</text>
+<line x1="0" y1="28.5" x2="1280" y2="28.5" stroke="#dcdcd8"/>
+<rect x="14.5" y="42.5" width="699" height="29" rx="6" fill="#fbfbfa" stroke="#dcdcd8" stroke-width="1"/>
+<text x="24" y="62" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#6e7781">Buscar agente, repo, ticket ou branch…</text>
+<text x="704" y="62" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#0b5cd5" text-anchor="end">mostrar 3 delegado(s)</text>
+<text x="14" y="101" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#c4302b" font-weight="600">Precisa de você</text>
+<text x="138.0" y="101" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">1</text>
+<rect x="14.5" y="110.5" width="699" height="48" rx="6" fill="#f1f4f2" stroke="#dcdcd8" stroke-width="1"/>
+<path d="M20,111 h-3 a2,2 0 0 0 -2,2 v44 a2,2 0 0 0 2,2 h3 z" fill="#347158"/>
+<rect x="15" y="111" width="3" height="47" rx="0" fill="#347158"/>
+<text x="26" y="130" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#347158">Este Mac</text>
+<text x="108" y="130" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#24292f">Migrar login para OAuth</text>
+<text x="704" y="130" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#57606a" text-anchor="end">inbox 1</text>
+<text x="26" y="149" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">api · feat/oauth-login · CU-8f2k1 · permissão para rodar migrate · há 2 min</text>
+<rect x="678" y="137" width="26" height="17" rx="4" fill="none"/>
+<text x="691.0" y="149" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#0b5cd5" text-anchor="middle">PR</text>
+<rect x="634" y="137" width="40" height="17" rx="4" fill="none"/>
+<text x="654.0" y="149" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#0b5cd5" text-anchor="middle">card</text>
+<text x="14" y="187" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#c4302b" font-weight="600">Responder no inbox</text>
+<text x="160.79999999999998" y="187" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">1</text>
+<rect x="14.5" y="196.5" width="699" height="48" rx="6" fill="#f5f3f0" stroke="#dcdcd8" stroke-width="1"/>
+<path d="M20,197 h-3 a2,2 0 0 0 -2,2 v44 a2,2 0 0 0 2,2 h3 z" fill="#835935"/>
+<rect x="15" y="197" width="3" height="47" rx="0" fill="#835935"/>
+<text x="26" y="216" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#835935">build-box</text>
+<text x="108" y="216" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#24292f">Atualizar dependências do web</text>
+<text x="26" y="235" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">web · chore/deps-nov · 2 perguntas</text>
+<rect x="678" y="223" width="26" height="17" rx="4" fill="none"/>
+<text x="691.0" y="235" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#0b5cd5" text-anchor="middle">PR</text>
+<text x="14" y="273" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#24292f" font-weight="600">Feito, não visto</text>
+<text x="145.6" y="273" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">2</text>
+<rect x="14.5" y="282.5" width="699" height="48" rx="6" fill="#f1f4f4" stroke="#dcdcd8" stroke-width="1"/>
+<path d="M20,283 h-3 a2,2 0 0 0 -2,2 v44 a2,2 0 0 0 2,2 h3 z" fill="#2b6c83"/>
+<rect x="15" y="283" width="3" height="47" rx="0" fill="#2b6c83"/>
+<text x="26" y="302" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#2b6c83">staging</text>
+<text x="108" y="302" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#24292f">Investigar timeout no checkout</text>
+<text x="26" y="321" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">checkout · fix/payment-timeout · CU-7a9d3 · há 6 min</text>
+<rect x="678" y="309" width="26" height="17" rx="4" fill="none"/>
+<text x="691.0" y="321" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#0b5cd5" text-anchor="middle">PR</text>
+<rect x="634" y="309" width="40" height="17" rx="4" fill="none"/>
+<text x="654.0" y="321" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#0b5cd5" text-anchor="middle">card</text>
+<rect x="14.5" y="336.5" width="699" height="48" rx="6" fill="#f1f4f2" stroke="#dcdcd8" stroke-width="1"/>
+<path d="M20,337 h-3 a2,2 0 0 0 -2,2 v44 a2,2 0 0 0 2,2 h3 z" fill="#347158"/>
+<rect x="15" y="337" width="3" height="47" rx="0" fill="#347158"/>
+<text x="26" y="356" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#347158">Este Mac</text>
+<text x="108" y="356" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#24292f">Escrever testes do parser</text>
+<text x="26" y="375" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">parser · test/csv-edge-cases · há 14 min</text>
+<rect x="678" y="363" width="26" height="17" rx="4" fill="none"/>
+<text x="691.0" y="375" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#0b5cd5" text-anchor="middle">PR</text>
+<text x="14" y="413" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#0b5cd5" font-weight="600">Esperando</text>
+<text x="92.39999999999999" y="413" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">1</text>
+<rect x="14.5" y="422.5" width="699" height="48" rx="6" fill="#f5f3f0" stroke="#dcdcd8" stroke-width="1"/>
+<path d="M20,423 h-3 a2,2 0 0 0 -2,2 v44 a2,2 0 0 0 2,2 h3 z" fill="#835935"/>
+<rect x="15" y="423" width="3" height="47" rx="0" fill="#835935"/>
+<text x="26" y="442" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#835935">build-box</text>
+<text x="108" y="442" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#24292f">Rebuild das imagens Docker</text>
+<text x="26" y="461" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">infra · main · 2 sub-agente(s) · há 1 min</text>
+<text x="14" y="499" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#8a5a00" font-weight="600">Cache esfriando</text>
+<text x="138.0" y="499" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">1</text>
+<rect x="14.5" y="508.5" width="699" height="48" rx="6" fill="#f1f4f4" stroke="#dcdcd8" stroke-width="1"/>
+<path d="M20,509 h-3 a2,2 0 0 0 -2,2 v44 a2,2 0 0 0 2,2 h3 z" fill="#2b6c83"/>
+<rect x="15" y="509" width="3" height="47" rx="0" fill="#2b6c83"/>
+<text x="26" y="528" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#2b6c83">staging</text>
+<text x="108" y="528" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#24292f">Refatorar fila de e-mails</text>
+<text x="26" y="547" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">mailer · refactor/queue · há 52 min</text>
+<rect x="678" y="535" width="26" height="17" rx="4" fill="none"/>
+<text x="691.0" y="547" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#0b5cd5" text-anchor="middle">PR</text>
+<text x="14" y="585" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#2e7d32" font-weight="600">Trabalhando</text>
+<text x="107.6" y="585" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">2</text>
+<rect x="14.5" y="594.5" width="699" height="48" rx="6" fill="#f1f4f2" stroke="#0b5cd5" stroke-width="2"/>
+<path d="M20,595 h-3 a2,2 0 0 0 -2,2 v44 a2,2 0 0 0 2,2 h3 z" fill="#347158"/>
+<rect x="15" y="595" width="3" height="47" rx="0" fill="#347158"/>
+<text x="26" y="614" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#347158">Este Mac</text>
+<text x="108" y="614" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#24292f">Revisar acessibilidade do modal</text>
+<text x="26" y="633" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">web · fix/modal-a11y</text>
+<rect x="678" y="621" width="26" height="17" rx="4" fill="none"/>
+<text x="691.0" y="633" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#0b5cd5" text-anchor="middle">PR</text>
+<rect x="14.5" y="648.5" width="699" height="48" rx="6" fill="#f5f3f0" stroke="#dcdcd8" stroke-width="1"/>
+<path d="M20,649 h-3 a2,2 0 0 0 -2,2 v44 a2,2 0 0 0 2,2 h3 z" fill="#835935"/>
+<rect x="15" y="649" width="3" height="47" rx="0" fill="#835935"/>
+<text x="26" y="668" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#835935">build-box</text>
+<text x="108" y="668" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#24292f">Gerar relatório de cobertura</text>
+<text x="26" y="687" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">api · ci/coverage</text>
+<text x="14" y="725" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#24292f" font-weight="600">Máquinas</text>
+<text x="14" y="746" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">build-box load 0.84 · RAM 9/32 GB</text>
+<text x="274" y="746" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">staging load 0.21 · RAM 3/16 GB</text>
+<rect x="14.5" y="754.5" width="150" height="45" rx="6" fill="#ffffff" stroke="#dcdcd8" stroke-width="1"/>
+<rect x="15" y="755" width="3" height="44" rx="0" fill="#347158"/>
+<text x="26" y="773" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#347158">Este Mac</text>
+<text x="26" y="790" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">4 · 3 ativos</text>
+<text x="148" y="782" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="16" fill="#57606a" text-anchor="middle">+</text>
+<rect x="172.5" y="754.5" width="150" height="45" rx="6" fill="#ffffff" stroke="#dcdcd8" stroke-width="1"/>
+<rect x="173" y="755" width="3" height="44" rx="0" fill="#835935"/>
+<text x="184" y="773" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#835935">build-box</text>
+<text x="184" y="790" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">5 · 3 ativos</text>
+<text x="306" y="782" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="16" fill="#57606a" text-anchor="middle">+</text>
+<rect x="330.5" y="754.5" width="150" height="45" rx="6" fill="#ffffff" stroke="#dcdcd8" stroke-width="1"/>
+<rect x="331" y="755" width="3" height="44" rx="0" fill="#2b6c83"/>
+<text x="342" y="773" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#2b6c83">staging</text>
+<text x="342" y="790" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">3 · 2 ativos</text>
+<text x="464" y="782" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="16" fill="#57606a" text-anchor="middle">+</text>
+<line x1="727.5" y1="28" x2="727.5" y2="820" stroke="#dcdcd8"/>
+<rect x="728" y="28" width="552" height="32" rx="0" fill="#ececea"/>
+<rect x="738" y="36" width="72" height="18" rx="4" fill="#0b5cd5"/>
+<text x="774" y="49" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#fbfbfa" font-weight="600" text-anchor="middle">ESTE MAC</text>
+<text x="820" y="49" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="12" fill="#57606a">web · fix/modal-a11y</text>
+<rect x="728" y="60" width="552" height="42" rx="0" fill="#fbfbfa"/>
+<line x1="728" y1="101.5" x2="1280" y2="101.5" stroke="#dcdcd8"/>
+<rect x="738" y="68" width="73.0" height="26" rx="6" fill="#f3f3f1" stroke="#dcdcd8" stroke-width="1"/>
+<text x="774.5" y="86" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#24292f" text-anchor="middle">claude</text>
+<text x="868.5" y="86" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#57606a" text-anchor="middle">dev server</text>
+<text x="958.75" y="86" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif" font-size="13" fill="#57606a" text-anchor="middle">shell</text>
+<rect x="728" y="102" width="552" height="718" rx="0" fill="#fbfbfa"/>
+<text x="748" y="132" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#24292f">&gt; revise o modal de confirmação: foco, aria e esc</text>
+<text x="748" y="153" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#24292f"></text>
+<text x="748" y="174" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#57606a">● Lendo src/components/ConfirmModal.tsx</text>
+<text x="748" y="195" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#24292f">● O foco não volta ao botão que abriu o modal.</text>
+<text x="748" y="216" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#24292f">  Falta aria-labelledby no diálogo.</text>
+<text x="748" y="237" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#24292f"></text>
+<text x="748" y="258" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#2e7d32">● Update(src/components/ConfirmModal.tsx)</text>
+<text x="748" y="279" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#2e7d32">  + const returnTo = useRef(document.activeElement)</text>
+<text x="748" y="300" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#2e7d32">  + aria-labelledby=&quot;confirm-title&quot;</text>
+<text x="748" y="321" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#c4302b">  - &lt;div className=&quot;modal&quot;&gt;</text>
+<text x="748" y="342" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#2e7d32">  + &lt;div role=&quot;dialog&quot; aria-modal=&quot;true&quot;&gt;</text>
+<text x="748" y="363" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#24292f"></text>
+<text x="748" y="384" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#57606a">● Bash(npm test -- ConfirmModal)</text>
+<text x="748" y="405" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#2e7d32">  ✓ 9 testes passaram</text>
+<text x="748" y="426" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#24292f"></text>
+<text x="748" y="447" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#8a5a00">✻ Conferindo o atalho Esc…</text>
+<rect x="744" y="762" width="520" height="38" rx="8" fill="#fbfbfa" stroke="#dcdcd8" stroke-width="1"/>
+<text x="758" y="786" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" fill="#57606a">&gt;</text>
+<rect x="772" y="774" width="8" height="15" rx="0" fill="#24292f"/>
+</svg>

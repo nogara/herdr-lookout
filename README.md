@@ -2,6 +2,10 @@
 
 A Herdr app layout that keeps watch over your agents.
 
+![The board layout with example agents](docs/preview.svg)
+
+*Example data; machine, repo and ticket names are made up.*
+
 The "board" layout puts an agent board on the left
 (what needs you first, then one summary per machine), and the active tab on the
 right under a context bar showing the focused machine and branch.
